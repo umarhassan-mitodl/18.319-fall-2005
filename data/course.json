@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "2e64613f-0077-7d98-7c4c-396648a94c2e",
+  "instructors": {
+    "content": [
+      "d612255f-5c65-c013-deec-bdad3aff4461"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "351eee6b-0512-4290-b1b8-cbff97bb7ca6",
+    "website": "18-319-geometric-combinatorics-fall-2005"
+  },
+  "course_title": "Geometric Combinatorics",
+  "course_description": "This course offers an introduction to discrete and computational geometry. Emphasis is placed on teaching methods in combinatorial geometry. Many results presented are recent, and include open (as yet unsolved) problems.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.319",
+  "course_image_thumbnail": {
+    "content": "cecd6220-998f-5a2b-fbc6-45731b6be3ca",
+    "website": "18-319-geometric-combinatorics-fall-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "317a6eb3-8c99-4a7e-b95e-26fcf353a4a0",
+  "site_short_id": "18.319-fall-2005",
+  "site_url_path": "courses/18-319-geometric-combinatorics-fall-2005",
+  "title": "Course Metadata"
+}
