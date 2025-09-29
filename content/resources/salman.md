@@ -5,6 +5,8 @@ description: This file contains notes for 'Incidence Problems in Plane and Highe
 file: /courses/18-319-geometric-combinatorics-fall-2005/93acc0016db47b8a7a95ebe246cedd8f_salman.pdf
 file_size: 171407
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

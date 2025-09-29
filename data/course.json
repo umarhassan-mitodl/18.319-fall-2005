@@ -35,6 +35,7 @@
     "website": "18-319-geometric-combinatorics-fall-2005"
   },
   "course_title": "Geometric Combinatorics",
+  "hide_download": true,
   "course_description": "This course offers an introduction to discrete and computational geometry. Emphasis is placed on teaching methods in combinatorial geometry. Many results presented are recent, and include open (as yet unsolved) problems.\n",
   "department_numbers": [
     "18"
@@ -45,6 +46,7 @@
     "content": "cecd6220-998f-5a2b-fbc6-45731b6be3ca",
     "website": "18-319-geometric-combinatorics-fall-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets"
   ],

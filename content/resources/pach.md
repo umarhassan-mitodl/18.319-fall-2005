@@ -5,6 +5,8 @@ description: This file contains abstract on the topic New Results On Old Crossin
 file: /courses/18-319-geometric-combinatorics-fall-2005/f6fb95a4ddf04ede9ebf2bfbd461bda8_pach.pdf
 file_size: 36244
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

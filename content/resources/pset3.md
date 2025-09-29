@@ -5,6 +5,8 @@ description: This file contains exercise questions for topics viz. More on Cross
 file: /courses/18-319-geometric-combinatorics-fall-2005/4e4dba802a8b5ecc5004877cb7ceb2ee_pset3.pdf
 file_size: 49064
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This file contains exercise questions for topics viz. Unit Distance
 file: /courses/18-319-geometric-combinatorics-fall-2005/1d60eb428fb5ba4513878333b6203745_pset2.pdf
 file_size: 56765
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

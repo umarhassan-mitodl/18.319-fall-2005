@@ -4,6 +4,8 @@ description: This file contains notes on 'On the Decay of Crossing Numbers.'
 file: /courses/18-319-geometric-combinatorics-fall-2005/ff195f320fa91979105684a576725004_crossdecay_l.pdf
 file_size: 345944
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
