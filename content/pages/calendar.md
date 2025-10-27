@@ -2,8 +2,6 @@
 content_type: page
 description: Calendar section contains topics covered in the course along with the
   key dates for the submission of problem sets.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

@@ -5,8 +5,6 @@ description: This file contains exercise questions for topics viz. Davenport-Sch
 file: /courses/18-319-geometric-combinatorics-fall-2005/fb0ee60df247dc42b3297a974602b594_pset4.pdf
 file_size: 54576
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

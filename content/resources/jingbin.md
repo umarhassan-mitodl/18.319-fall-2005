@@ -4,8 +4,6 @@ description: This file contains notes for bounds of crossing numbers.
 file: /courses/18-319-geometric-combinatorics-fall-2005/56cbbda57c42b36ec995b8a5d5a55d56_jingbin.pdf
 file_size: 114079
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

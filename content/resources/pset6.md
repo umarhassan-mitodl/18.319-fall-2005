@@ -4,8 +4,6 @@ description: This file contains exercise questions for topic viz. Binary Space P
 file: /courses/18-319-geometric-combinatorics-fall-2005/5f2267ab40d20dd1abdec00df7c33df6_pset6.pdf
 file_size: 49727
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

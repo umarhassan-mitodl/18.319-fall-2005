@@ -5,8 +5,6 @@ description: This file contains the abstract written on the topic On The Maximum
 file: /courses/18-319-geometric-combinatorics-fall-2005/9f6e8ae30ca04698d56279551fe2bb39_ackerman.pdf
 file_size: 30708
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
